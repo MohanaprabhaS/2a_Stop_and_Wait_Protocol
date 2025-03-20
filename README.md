@@ -39,6 +39,7 @@ while True:
    s.send("Acknowledgement Received".encode())
 
 ```
+
 ## OUTPUT
 ![Screenshot 2025-03-20 103826](https://github.com/user-attachments/assets/836ed101-81fa-4acb-967c-57bb8b996376)
 
