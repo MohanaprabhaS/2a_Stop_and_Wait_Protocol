@@ -32,17 +32,24 @@ while True:
 Server 
 
 import socket
+
 s=socket.socket()
+
 s.connect(('localhost',8000))
+
 while True:
-    print(s.recv(1024).decode())
-    s.send("Acknowledgement Received".encode())
+
+   print(s.recv(1024).decode())
+    
+   s.send("Acknowledgement Received".encode())
 
 
 ## OUTPUT
-![Screenshot 2025-03-20 103310](https://github.com/user-attachments/assets/f99d3c06-9e5b-45d1-b9d9-73256f7681d3)
+![Screenshot 2025-03-20 103826](https://github.com/user-attachments/assets/836ed101-81fa-4acb-967c-57bb8b996376)
 
-![Screenshot 2025-03-20 103258](https://github.com/user-attachments/assets/4d7139cf-3705-4f48-a0c5-744151cffa42)
+
+![Screenshot 2025-03-20 103853](https://github.com/user-attachments/assets/d14da2e5-f63c-457e-b9fe-439e97a0f03a)
+
 
 
 ## RESULT
