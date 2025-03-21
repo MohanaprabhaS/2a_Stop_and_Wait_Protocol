@@ -1,6 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
 # DEVELOPED BY: MOHANAPRABHA S
-REGISTER NO:212224040197
+# REGISTER NO:212224040197
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
@@ -41,11 +41,8 @@ while True:
 ```
 
 ## OUTPUT
-![Screenshot 2025-03-20 103826](https://github.com/user-attachments/assets/836ed101-81fa-4acb-967c-57bb8b996376)
 
-
-![Screenshot 2025-03-20 103853](https://github.com/user-attachments/assets/d14da2e5-f63c-457e-b9fe-439e97a0f03a)
-
+![Screenshot 2025-03-20 112838](https://github.com/user-attachments/assets/1f8253c9-fdad-4379-9fa7-ebde6a0f8fc1)
 
 
 ## RESULT
