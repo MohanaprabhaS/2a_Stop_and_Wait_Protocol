@@ -1,6 +1,7 @@
 # 2a_Stop_and_Wait_Protocol
 # DEVELOPED BY: MOHANAPRABHA S
 # REGISTER NO:212224040197
+# DATE: 20.3.25
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
